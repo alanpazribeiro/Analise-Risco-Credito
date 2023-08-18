@@ -1,6 +1,6 @@
 
 # Objetivo do Projeto
-Análise do perfil dos Clientes para determinar o Risco na Concessão de Empréstimos
+Análise do perfil dos Clientes para determinar o Risco na Concessão de Empréstimos.
 
 # Bibliotecas Utilizadas
 - Pandas
