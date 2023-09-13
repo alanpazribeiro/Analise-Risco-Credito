@@ -4,6 +4,8 @@ Análise do perfil dos Clientes para determinar o Risco na Concessão de Emprés
 
 # Bibliotecas Utilizadas
 - Pandas
+- -Numpy
+- Matplotlib
 
 # Descrição do Projeto
 Seu projeto é preparar um relatório para a divisão de empréstimos de um banco verificando se o estado civil de um cliente e o número de filhos têm impacto sobre a inadimplência de um empréstimo. O banco já tem alguns dados sobre a capacidade de crédito dos clientes.
@@ -22,6 +24,18 @@ Seu projeto é preparar um relatório para a divisão de empréstimos de um banc
 - *debt* - havia alguma dívida no pagamento do empréstimo
 - *total_income* - renda mensal
 - *purpose* - o objetivo de obter um empréstimo
+
+# Execução do Projeto
+
+- Passo 1. Carregamento os dados e prepare-os para a análise
+  - Verificado tipo de dado
+  - Nulos/faltantes
+  - organizar/renomear colunas
+  - colunas tipo datetime
+  - amplitude das variáveis
+  - tipos de dados categóricos
+  - valores duplicados
+  - espaços e caracteres especiais nos dados
 
 
 
